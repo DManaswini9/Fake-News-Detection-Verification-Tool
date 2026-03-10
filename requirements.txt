@@ -1,0 +1,10 @@
+flask
+flask-login
+flask-sqlalchemy
+nltk
+requests
+beautifulsoup4
+python-dotenv
+numpy
+pandas
+google-generativeai
